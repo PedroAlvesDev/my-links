@@ -1,0 +1,12 @@
+* {
+margin: 0;
+padding: 0;
+}
+.Code
+    img{
+        border-radius: 0;
+        width: 80px;
+        height: 80px;
+        margin-block-end: 10px;
+}
+
